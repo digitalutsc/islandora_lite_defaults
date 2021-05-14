@@ -1,5 +1,22 @@
-name: 'islandora_lite_defaults'
+name: islandora_lite_defaults
 type: module
 description: 'This module genrate core component for DSU Islandora Lite Stacks'
 core: 8.x
-package: 'Custom'
+package: Custom
+dependencies:
+  - text
+  - islandora_audio
+  - file
+  - pdf
+  - user
+  - openseadragon
+  - islandora_fits
+  - image
+  - islandora
+  - media
+  - islandora_video
+  - comment
+  - controlled_access_terms
+  - geolocation
+  - options
+  - link
