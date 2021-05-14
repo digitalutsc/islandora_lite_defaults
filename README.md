@@ -1,0 +1,2 @@
+# islandora_lite_defaults
+islandora_lite_defaults
