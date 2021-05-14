@@ -1,0 +1,13 @@
+{
+    "name": "islandora_lite_defaults",
+    "type": "drupal-module",
+    "description": "This module genrate core component for DSU Islandora Lite Stacks",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/islandora_lite_defaults",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/islandora_lite_defaults",
+        "source": "http://cgit.drupalcode.org/islandora_lite_defaults",
+    },
+}
